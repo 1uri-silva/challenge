@@ -8,4 +8,11 @@
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss)
 - [vite](https://www.npmjs.com/package/vite)
 
+⚙️ Running Application
 
+```sh
+  npn run server
+```
+```sh
+  npn dev
+```
